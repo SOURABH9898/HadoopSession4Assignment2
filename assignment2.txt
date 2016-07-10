@@ -1,0 +1,12 @@
+1. c namenode, datanode
+2. a.DFSOutputStream
+3. d.close()
+4. d. Hadoop-env.sh
+5. d. TaskTracker
+6. a.In this configuration, the Secondary NameNode performs a checkpoint operation on the files by
+the NameNode. 
+7. c.core-site.xml
+8. ResourceManager (RM)
+9. a. NodeManagers
+10. e.HDFS Federation reduces the load on any single NameNode by using the multiple,
+independent NameNode to manage individual pars of the filesystem namespace.
